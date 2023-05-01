@@ -6,7 +6,7 @@ const fetchBlogs = async () => {
   const response = await fetch(
     `https://cdn.contentful.com/spaces/${process.env.MY_SPACE_ID}/environments/master/entries?access_token=${process.env.CONTENTFUL_ACCESS_KEY}&content_type=blog2`,
     {
-      next: { revalidate: 20 },
+      next: { revalidate: 79100 },
     }
   );
   try {
