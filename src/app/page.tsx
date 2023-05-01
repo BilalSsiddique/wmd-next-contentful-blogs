@@ -22,7 +22,7 @@ export default async function Home() {
   if (!Array.isArray(blogs.items)) return 'undefined'
 
   return (
-    <main className="pt-28  flex flex-wrap justify-center  min-h-screen  gap-4 sm:gap-6 mx-auto bg-[#ecf0f1]  p-2 sm:px-3 sm:pt-24 ">
+    <main className="pt-28  flex flex-wrap justify-center  min-h-screen  gap-4 sm:gap-6 mx-auto bg-[#ecf0f1]  p-7 sm:px-3 sm:pt-24 ">
       {blogs.items.map((blog: any) => {
         let blogImage = blogs.includes.Asset.find(
           (obj: { sys: { id: any } }) =>
