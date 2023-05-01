@@ -102,7 +102,7 @@ const Blogs = async ({ params }: { params: { blog: string } }) => {
           />
         </div>
         <div className="text-black font-normal sm:font-semibold mt-4">
-          <p>{documentToReactComponents(availableBlog.fields.body)}</p>
+          {documentToReactComponents(availableBlog.fields.body)}
         </div>
       </div>
     </div>
