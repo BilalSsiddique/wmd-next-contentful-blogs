@@ -76,6 +76,7 @@ export default async function Home() {
                   width="50"
                   height="50"
                   className="rounded-full"
+                  priority
                 />
               </div>
               <div className="text-sm">

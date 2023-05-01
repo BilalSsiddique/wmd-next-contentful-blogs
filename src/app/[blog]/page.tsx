@@ -65,7 +65,9 @@ const Blogs = async ({ params }: { params: { blog: string } }) => {
     <div className="lg:w-11/12 p-8 lg:p-24 flex-col pt-24  font-extrabold sm:justify-start ">
       {/* Blog Title & Author Details */}
       <div className="mt-4">
-        <h1 className="text-2xl sm:text-3xl lg:text-4xl">{availableBlog.fields.title}</h1>
+        <h1 className="text-2xl sm:text-3xl lg:text-4xl">
+          {availableBlog.fields.title}
+        </h1>
         <div className="flex lg:w-1/3 gap-4 items-center h-full ">
           <div className="pt-2 ">
             <Image
@@ -74,6 +76,7 @@ const Blogs = async ({ params }: { params: { blog: string } }) => {
               width="80"
               height="80"
               className="rounded-full"
+              priority
             />
           </div>
           <div className="text-sm pt-2">
