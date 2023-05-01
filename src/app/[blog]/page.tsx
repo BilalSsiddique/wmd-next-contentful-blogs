@@ -96,6 +96,7 @@ const Blogs = async ({ params }: { params: { blog: string } }) => {
             sizes="100vw"
             className="object-cover object-center  w-full h-full "
             alt="blogImage"
+            priority
           />
         </div>
         <div className="text-black font-normal sm:font-semibold mt-4">
