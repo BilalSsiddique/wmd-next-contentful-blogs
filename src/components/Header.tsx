@@ -7,7 +7,7 @@ const Header = () => {
       <Link href="/">
         <FaBlog size={28} color="white" />
       </Link>
-      <Link href="">
+      <Link href="https://github.com/BilalSsiddique/wmd-next-contentful-blogs" target='_blank'>
         <FaGithub size={28} color="white" />
       </Link>
     </div>
