@@ -1,0 +1,826 @@
+{
+  "sys": {
+    "type": "Array"
+  },
+  "total": 5,
+  "skip": 0,
+  "limit": 100,
+  "items": [
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "et3tvw37a60x"
+          }
+        },
+        "id": "6tEwm5ligbeTVYaHqxBVIe",
+        "type": "Entry",
+        "createdAt": "2023-04-29T21:09:34.011Z",
+        "updatedAt": "2023-04-30T17:32:53.218Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 4,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "blog2"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "The Benefits of Meditation: Why You Should Start Today",
+        "body": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "value": "Meditation",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": " has been shown to have numerous benefits for both your physical and mental health. From reducing stress and anxiety to improving focus and attention, the benefits of meditation are numerous. In this blog post, we explore the science behind meditation and why you should consider making it a part of your daily routine.\n\n",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "image": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "WO8yhjJvXVwVRqUa4v9Jf"
+          }
+        },
+        "publishedDate": "2023-04-30T02:08+05:00",
+        "author": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "tKYoOFdG2V0lSD3bn3Kpr"
+          }
+        },
+        "summary": "Meditation has been shown to have numerous benefits for both your physical and mental health. From reducing stress and anxiety to improving focus"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "et3tvw37a60x"
+          }
+        },
+        "id": "6XCjoGHhk4K0zjihmtoAUp",
+        "type": "Entry",
+        "createdAt": "2023-04-30T11:44:53.215Z",
+        "updatedAt": "2023-04-30T11:44:53.215Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "blog2"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "The Benefits of Journaling: How to Improve Your Mental Health",
+        "body": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "value": "Journaling",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": " has been shown to have numerous benefits for your mental health, including reducing stress and anxiety, improving mood, and boosting self-awareness. In this blog post, we explore the science behind journaling and provide tips on how to start a journaling practice of your own.\n\n",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "image": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "1TxFwL1FhM5EncneyiphWT"
+          }
+        },
+        "publishedDate": "2023-04-30T04:43+05:00",
+        "author": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "5VqCvxMJxPFC1lvGYBwsxe"
+          }
+        },
+        "summary": "Journaling has been shown to have numerous benefits for your mental health, including reducing stress and anxiety, improving mood, and "
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "et3tvw37a60x"
+          }
+        },
+        "id": "3XnVIk7wWaAUHNcNs83YaL",
+        "type": "Entry",
+        "createdAt": "2023-04-29T21:20:22.380Z",
+        "updatedAt": "2023-04-30T11:31:19.703Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "blog2"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "10 Tips for a More Productive Workday",
+        "body": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Are you tired of feeling like you're not making progress at work? These 10 tips will help you stay focused and get more done during your workday. From setting priorities to taking breaks, you'll learn how to optimize your time and energy for maximum productivity.\n\n",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "image": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "jihf2r3TBcOxOUuOJDsLH"
+          }
+        },
+        "publishedDate": "2023-04-30T02:19+05:00",
+        "author": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "5VqCvxMJxPFC1lvGYBwsxe"
+          }
+        },
+        "summary": "Are you tired of feeling like you're not making progress at work? These 10 tips will help you stay focused and get more done during your workday."
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "et3tvw37a60x"
+          }
+        },
+        "id": "2sSBwPNHn8Y4PwgmrBthyO",
+        "type": "Entry",
+        "createdAt": "2023-04-29T21:52:32.434Z",
+        "updatedAt": "2023-04-30T11:13:52.387Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "blog2"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "The Power of Positive Thinking: How to Transform Your Mindset",
+        "body": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Did you know that your thoughts have the power to shape your reality? By practicing positive thinking, you can transform your mindset and create a more fulfilling life. In this blog post, we explore the benefits of positive thinking and provide tips on how to incorporate it into your daily routine.\n\n",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "image": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "19zu3bR5QupjKlZNfrsFih"
+          }
+        },
+        "publishedDate": "2023-04-30T02:51+05:00",
+        "author": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "5VqCvxMJxPFC1lvGYBwsxe"
+          }
+        },
+        "summary": "Did you know that your thoughts have the power to shape your reality? By practicing positive thinking, you can transform your mindset and"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "et3tvw37a60x"
+          }
+        },
+        "id": "4hwNiVW9qDW0I54bkncaSA",
+        "type": "Entry",
+        "createdAt": "2023-04-29T22:01:50.153Z",
+        "updatedAt": "2023-04-30T11:04:06.920Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "blog2"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "5 Easy DIY Home Decor Projects for Spring",
+        "body": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Spring is the perfect time to refresh your home decor! In this blog post, we share 5 easy and affordable DIY home decor projects that you can do this spring. From creating your own floral arrangements to repurposing old furniture, these projects will add a touch of spring to your home.\n",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "image": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "3MDgcWUMj7K9MD9WXdB9SY"
+          }
+        },
+        "publishedDate": "2023-04-30T03:01+05:00",
+        "author": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Entry",
+            "id": "5VqCvxMJxPFC1lvGYBwsxe"
+          }
+        },
+        "summary": "Spring is the perfect time to refresh your home decor! In this blog post, we share 5 easy and affordable DIY home decor projects that you can do this spring"
+      }
+    }
+  ],
+  "includes": {
+    "Entry": [
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "et3tvw37a60x"
+            }
+          },
+          "id": "5VqCvxMJxPFC1lvGYBwsxe",
+          "type": "Entry",
+          "createdAt": "2023-04-29T19:06:08.217Z",
+          "updatedAt": "2023-04-29T19:06:08.217Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "author"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "name": "Bilal Siddique",
+          "biography": {
+            "data": {},
+            "content": [
+              {
+                "data": {},
+                "content": [
+                  {
+                    "data": {},
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "value": "An Undergraduate Software Engineer",
+                    "nodeType": "text"
+                  },
+                  {
+                    "data": {},
+                    "marks": [],
+                    "value": " proficient in designing ,developing & deploying Web Applications. Have strong interpersonal skills. An Aspiring WEB 3.0 & Metaverse Engineer having Front-end & Backend Skills . Have Deployed many Dynamic & static websites using React.js, Next.js, Mongo DB & more .\n\n",
+                    "nodeType": "text"
+                  }
+                ],
+                "nodeType": "paragraph"
+              }
+            ],
+            "nodeType": "document"
+          },
+          "profileImage": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Asset",
+              "id": "6gJ62AQ5ESYXGxP2aAOTCR"
+            }
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "et3tvw37a60x"
+            }
+          },
+          "id": "tKYoOFdG2V0lSD3bn3Kpr",
+          "type": "Entry",
+          "createdAt": "2023-04-30T17:32:14.474Z",
+          "updatedAt": "2023-04-30T17:32:14.474Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "author"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "name": "Ali Ahmed",
+          "biography": {
+            "data": {},
+            "content": [
+              {
+                "data": {},
+                "content": [
+                  {
+                    "data": {},
+                    "marks": [],
+                    "value": "Activist",
+                    "nodeType": "text"
+                  }
+                ],
+                "nodeType": "paragraph"
+              }
+            ],
+            "nodeType": "document"
+          },
+          "profileImage": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Asset",
+              "id": "5M9nCaqku6d9Y1EdDI8Obu"
+            }
+          }
+        }
+      }
+    ],
+    "Asset": [
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "et3tvw37a60x"
+            }
+          },
+          "id": "19zu3bR5QupjKlZNfrsFih",
+          "type": "Asset",
+          "createdAt": "2023-04-29T21:51:44.232Z",
+          "updatedAt": "2023-04-29T21:51:44.232Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "man victory",
+          "description": "winning man",
+          "file": {
+            "url": "//images.ctfassets.net/et3tvw37a60x/19zu3bR5QupjKlZNfrsFih/1f56fecfd0897afaee7a594611340651/3rd.png",
+            "details": {
+              "size": 419443,
+              "image": {
+                "width": 512,
+                "height": 512
+              }
+            },
+            "fileName": "3rd.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "et3tvw37a60x"
+            }
+          },
+          "id": "1TxFwL1FhM5EncneyiphWT",
+          "type": "Asset",
+          "createdAt": "2023-04-30T11:43:21.521Z",
+          "updatedAt": "2023-04-30T11:43:21.521Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "journaling",
+          "description": "journaling",
+          "file": {
+            "url": "//images.ctfassets.net/et3tvw37a60x/1TxFwL1FhM5EncneyiphWT/d3000c9da9f6609b0701e6b6dd0511ee/5th.png",
+            "details": {
+              "size": 450141,
+              "image": {
+                "width": 512,
+                "height": 512
+              }
+            },
+            "fileName": "5th.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "et3tvw37a60x"
+            }
+          },
+          "id": "3MDgcWUMj7K9MD9WXdB9SY",
+          "type": "Asset",
+          "createdAt": "2023-04-29T22:00:18.999Z",
+          "updatedAt": "2023-04-29T22:00:18.999Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Home decoration",
+          "description": "Home decoration image",
+          "file": {
+            "url": "//images.ctfassets.net/et3tvw37a60x/3MDgcWUMj7K9MD9WXdB9SY/8c9b4d0109cba38bd04fef2da69276ea/4rth.png",
+            "details": {
+              "size": 414005,
+              "image": {
+                "width": 512,
+                "height": 512
+              }
+            },
+            "fileName": "4rth.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "et3tvw37a60x"
+            }
+          },
+          "id": "5M9nCaqku6d9Y1EdDI8Obu",
+          "type": "Asset",
+          "createdAt": "2023-04-30T17:31:59.420Z",
+          "updatedAt": "2023-04-30T17:46:39.344Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 2,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Author Image",
+          "description": "Author Image",
+          "file": {
+            "url": "//images.ctfassets.net/et3tvw37a60x/5M9nCaqku6d9Y1EdDI8Obu/365c6a5e0d8cd45ffd2edbe2b2f48a4a/profile-picture.png",
+            "details": {
+              "size": 163175,
+              "image": {
+                "width": 500,
+                "height": 500
+              }
+            },
+            "fileName": "profile-picture.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "et3tvw37a60x"
+            }
+          },
+          "id": "6gJ62AQ5ESYXGxP2aAOTCR",
+          "type": "Asset",
+          "createdAt": "2023-04-29T19:03:05.942Z",
+          "updatedAt": "2023-04-29T19:03:05.942Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Profile Image",
+          "description": "Display picture",
+          "file": {
+            "url": "//images.ctfassets.net/et3tvw37a60x/6gJ62AQ5ESYXGxP2aAOTCR/975d4b55e7c7595105cef37a2d59fa5b/profile-picture.png",
+            "details": {
+              "size": 163175,
+              "image": {
+                "width": 500,
+                "height": 500
+              }
+            },
+            "fileName": "profile-picture.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "et3tvw37a60x"
+            }
+          },
+          "id": "WO8yhjJvXVwVRqUa4v9Jf",
+          "type": "Asset",
+          "createdAt": "2023-04-29T18:32:21.667Z",
+          "updatedAt": "2023-04-29T18:32:21.667Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "The Benefits of Meditation: Why You Should Start Today",
+          "description": "The Benefits of Meditation: Why You Should Start Today",
+          "file": {
+            "url": "//images.ctfassets.net/et3tvw37a60x/WO8yhjJvXVwVRqUa4v9Jf/10f19fdb5ad7866ea94e7dbf2330edf4/2nd.png",
+            "details": {
+              "size": 515965,
+              "image": {
+                "width": 512,
+                "height": 512
+              }
+            },
+            "fileName": "2nd.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "et3tvw37a60x"
+            }
+          },
+          "id": "jihf2r3TBcOxOUuOJDsLH",
+          "type": "Asset",
+          "createdAt": "2023-04-29T16:55:02.374Z",
+          "updatedAt": "2023-04-29T16:55:02.374Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "10 Tips for a More Productive Workday",
+          "description": " image of a person working at a desk with a clock in the background",
+          "file": {
+            "url": "//images.ctfassets.net/et3tvw37a60x/jihf2r3TBcOxOUuOJDsLH/273557a60fa67a4a354f0697102d5161/1st.png",
+            "details": {
+              "size": 328882,
+              "image": {
+                "width": 512,
+                "height": 512
+              }
+            },
+            "fileName": "1st.png",
+            "contentType": "image/png"
+          }
+        }
+      }
+    ]
+  }
+}
